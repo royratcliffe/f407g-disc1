@@ -1,0 +1,7 @@
+{
+    "cmake.useCMakePresets": "always",
+    "files.associations": {
+        "*.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": true
+}
